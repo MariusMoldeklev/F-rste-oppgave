@@ -1,0 +1,32 @@
+body {
+    background-size: cover;
+    text-align: center;
+    background-image: linear-gradient(to bottom right, rgb(173, 50, 50),rgb(182, 179, 233));
+    color: white;
+    background-repeat: no-repeat;
+
+}
+
+img {
+    border: white solid 4px;
+    border-radius: 20%;
+}
+
+h1 {
+    text-shadow: 0px 0px 5px black;
+}
+
+button {
+    padding: 10px 24px;
+    font-size: 16px;
+    border-radius: 20%;
+}
+
+p {
+    padding-top: 40px;
+    text-align: end;
+    border-top: solid 4px white;
+    text-shadow: 0px 0px 5px black;
+    color: black;
+}
+
